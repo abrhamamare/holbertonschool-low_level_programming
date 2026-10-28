@@ -1,27 +1,23 @@
-# holbertonschool-low_level_programming
+# Holberton C Programming Exercises
 
-## **IN THIS REPOSITORY REVIEW THE NEXT TOPICS IN C PROGRAMMING LANGUAGE**
+Structured C programming coursework covering memory, pointers, data structures, file I/O, Makefiles, and search algorithms.
 
-<img src="https://i.imgur.com/cdYTRZi.jpg" alt="Printf" width="500" height="300">
+## Technologies and topics
 
-* 0x00. C - Hello, World
-* 0x01. C - Variables, if, else, while
-* 0x02. C - Functions, nested loops
-* 0x03. C - Debugging
-* 0x04. C - More functions, more nested loops
-* 0x05. C - Pointers, arrays and strings
-* 0x06. C - More pointers, arrays and strings
-* 0x07. C - Even more pointers, arrays and strings
-* 0x08. C - Recursion
-* 0x09. C - Static libraries
-* 0x0A. C - argc, argv
-* 0x0B. C - malloc, free
-* 0x0C. C - More malloc, free
-* 0x0D. C - Preprocessor
-* 0x0E. C - Structures, typedef
-* 0x0F. C - Function pointers
-* 0x10. C - Variadic functions
-* 0x12. C - Singly linked lists
-* 0x13. C - More singly linked lists
-* 0x14. C - Bit manipulation
-* 0x15. C - File I/O
+C, GCC, algorithms, memory management.
+
+## Getting started
+
+Open an exercise directory and compile the relevant files according to its instructions.
+
+## Repository contents
+
+This is an educational/practice repository. Browse the existing files and folders for the examples; individual exercises may have different requirements.
+
+## Interview discussion
+
+Explain allocation, pointer safety, algorithms, and testing.
+
+## Scope
+
+Learning and practice work, not a production-ready or security-audited application.
